@@ -1,0 +1,2 @@
+//Abrir un nuevo terminal y ejecutar el siguiente comando//
+streamlit run "aplicación Web.py"
